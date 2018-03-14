@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		91EEEB4F2058C12D00569ABB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91EEEB4E2058C12D00569ABB /* main.swift */; };
+		91EEEB562058C14200569ABB /* GradeBook.swift in Sources */ = {isa = PBXBuildFile; fileRef = 91EEEB552058C14200569ABB /* GradeBook.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -25,6 +26,7 @@
 /* Begin PBXFileReference section */
 		91EEEB4B2058C12D00569ABB /* Grade */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Grade; sourceTree = BUILT_PRODUCTS_DIR; };
 		91EEEB4E2058C12D00569ABB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		91EEEB552058C14200569ABB /* GradeBook.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GradeBook.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			isa = PBXGroup;
 			children = (
 				91EEEB4E2058C12D00569ABB /* main.swift */,
+				91EEEB552058C14200569ABB /* GradeBook.swift */,
 			);
 			path = Grade;
 			sourceTree = "<group>";
@@ -120,6 +123,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				91EEEB562058C14200569ABB /* GradeBook.swift in Sources */,
 				91EEEB4F2058C12D00569ABB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
